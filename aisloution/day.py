@@ -10,3 +10,9 @@ a = 12;
 b = 12
 result = a + b
 print(result)
+
+def add(a, b):
+    return a + b
+
+result = add(5, 3)
+print(result)
