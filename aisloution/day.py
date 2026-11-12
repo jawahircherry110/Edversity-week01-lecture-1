@@ -1,4 +1,4 @@
-name  = "jawahir"
+name  = "jawahir ali , 50236"
 program = "edversity ai soultion engenerring"
 university = "federal urdu university of arts science and tecxhnology"
 
